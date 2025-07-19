@@ -47,15 +47,15 @@ Estes ficheiros devem ser colocados no seguinte caminho:
 ```
 📁 Dataset/
 └── 📁 CSE-CIC-IDS2018/
-├── 📄 02-14-2018.csv
-├── 📄 02-15-2018.csv
-├── 📄 02-21-2018.csv
-├── 📄 02-22-2018.csv
-├── 📄 02-23-2018.csv
-└── 📄 03-02-2018.csv
+    ├── 📄 02-14-2018.csv
+    ├── 📄 02-15-2018.csv
+    ├── 📄 02-21-2018.csv
+    ├── 📄 02-22-2018.csv
+    ├── 📄 02-23-2018.csv
+    └── 📄 03-02-2018.csv
 ```
 
-Para executar o projeto e colocá-lo a funcionar, encontrará tudo o que precisa no Manual de Instruções incluído na secção de Anexos do relatório (não incluído neste repositório).
+Para executar o projeto e colocá-lo a funcionar, encontrará tudo o que precisa no **`Manual de Instruções`** presente na secção de **`Anexos`** do Relatório do Projeto, que se encontra neste repositório.
 
 ## 👥 Autores
 
