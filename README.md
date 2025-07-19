@@ -1,6 +1,6 @@
 # Sistema de Deteção de Intrusões com Machine Learning
 
-Este repositório contém o código-fonte do projeto final da Licenciatura em Engenharia Informática da Universidade Autónoma de Lisboa, desenvolvido no âmbito da unidade curricular de Laboratório de Projeto. O projeto consistiu na construção de um sistema de deteção de intrusões (IDS) baseado em modelos de Machine Learning, capazes de identificar tráfego normal e tráfego malicioso numa rede virtual simulada.
+Este repositório contém o código-fonte do projeto final da Licenciatura em Engenharia Informática de 2025 da Universidade Autónoma de Lisboa, desenvolvido no âmbito da unidade curricular de Laboratório de Projeto. O projeto consistiu na construção de um sistema de deteção de intrusões (IDS) baseado em modelos de Machine Learning, capazes de identificar tráfego normal e tráfego malicioso numa rede virtual simulada.
 
 ## 📌 Objetivo
 
