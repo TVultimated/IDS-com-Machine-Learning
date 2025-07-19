@@ -1,0 +1,5 @@
+=== Melhor threshold baseado em F1-score ===
+Threshold: 1000.000000
+F1-score: 0.081652
+Precision: 0.994175
+Recall: 0.042574

@@ -1,0 +1,8 @@
+Relatório gerado em: 2025-07-01 11:41:00
+Ficheiro analisado: exfiltragem_dados_tcp.csv
+Autoencoder: 1 fluxos suspeitos em 1
+Classes detetadas: {'Suspeito': np.int64(1), 'Benigno': np.int64(0)}
+Isolation Forest: 1 fluxos suspeitos em 1
+Classes detetadas: {'Suspeito': np.int64(1), 'Benigno': np.int64(0)}
+K-Means: 1 fluxos suspeitos em 1
+Classes detetadas: {'Suspeito': np.int64(1), 'Benigno': np.int64(0)}

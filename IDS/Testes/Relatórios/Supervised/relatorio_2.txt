@@ -1,0 +1,8 @@
+Relatório gerado em: 2025-07-01 11:29:03
+Ficheiro analisado: normal.csv
+MLP: 0 fluxos suspeitos em 1
+Classes detetadas: {}
+Random Forest: 0 fluxos suspeitos em 1
+Classes detetadas: {}
+SVM: 0 fluxos suspeitos em 1
+Classes detetadas: {}

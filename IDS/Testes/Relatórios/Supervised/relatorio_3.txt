@@ -1,0 +1,8 @@
+Relatório gerado em: 2025-07-01 11:29:04
+Ficheiro analisado: normal2.csv
+MLP: 6 fluxos suspeitos em 32
+Classes detetadas: {'DDOS': 6}
+Random Forest: 0 fluxos suspeitos em 32
+Classes detetadas: {}
+SVM: 0 fluxos suspeitos em 32
+Classes detetadas: {}

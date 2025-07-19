@@ -1,0 +1,8 @@
+Relatório gerado em: 2025-07-01 11:41:01
+Ficheiro analisado: normal2.csv
+Autoencoder: 9 fluxos suspeitos em 32
+Classes detetadas: {'Suspeito': np.int64(9), 'Benigno': np.int64(23)}
+Isolation Forest: 32 fluxos suspeitos em 32
+Classes detetadas: {'Suspeito': np.int64(32), 'Benigno': np.int64(0)}
+K-Means: 21 fluxos suspeitos em 32
+Classes detetadas: {'Suspeito': np.int64(21), 'Benigno': np.int64(11)}

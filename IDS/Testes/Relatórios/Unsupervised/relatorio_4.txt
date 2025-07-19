@@ -1,0 +1,8 @@
+Relatório gerado em: 2025-07-01 11:41:01
+Ficheiro analisado: tcp_syn_floading.csv
+Autoencoder: 0 fluxos suspeitos em 2241
+Classes detetadas: {'Suspeito': np.int64(0), 'Benigno': np.int64(2241)}
+Isolation Forest: 2241 fluxos suspeitos em 2241
+Classes detetadas: {'Suspeito': np.int64(2241), 'Benigno': np.int64(0)}
+K-Means: 0 fluxos suspeitos em 2241
+Classes detetadas: {'Suspeito': np.int64(0), 'Benigno': np.int64(2241)}

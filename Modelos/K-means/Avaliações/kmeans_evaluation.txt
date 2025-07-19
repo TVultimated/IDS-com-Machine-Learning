@@ -1,0 +1,11 @@
+=== K-Means - Avaliação ===
+              precision    recall  f1-score   support
+
+      normal       0.77      0.73      0.75     30001
+     anomaly       0.41      0.47      0.44     12026
+
+    accuracy                           0.65     42027
+   macro avg       0.59      0.60      0.59     42027
+weighted avg       0.67      0.65      0.66     42027
+
+F1-score: 0.44

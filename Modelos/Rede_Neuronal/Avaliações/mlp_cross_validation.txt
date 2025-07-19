@@ -1,0 +1,4 @@
+=== MLP Classifier - Cross-Validation ===
+precision_weighted: 98.57% ± 2.32%
+recall_weighted: 98.47% ± 2.51%
+f1_weighted: 98.01% ± 3.39%
