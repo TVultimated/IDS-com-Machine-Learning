@@ -53,14 +53,16 @@ Dataset/
 ├── 02-23-2018.csv
 └── 03-02-2018.csv
 
-(escrever que para executar o projeto e mete-lo a funcionar ira encontrar tudo o que precisa no Manual de Instruções que sera encontrado na secção de Anexos do relatorio que esta no presenta repositorio)
+Para executar o projeto e colocá-lo a funcionar, encontrará tudo o que precisa no Manual de Instruções incluído na secção de Anexos do relatório (não incluído neste repositório).
 
-👥 Autores
-Afonso Figueiredo Frasquilho (30010929)
-Guilherme Lopes Fernandes (30010398)
-Tomás Miguel Rodrigues Viana (30010623)
+## 👥 Autores
 
-Orientador: Prof. Doutor Mário Marques da Silva
+- Afonso Figueiredo Frasquilho (30010929)  
+- Guilherme Lopes Fernandes (30010398)  
+- Tomás Miguel Rodrigues Viana (30010623)
 
-📄 Licença
+**Orientador:** Prof. Doutor Mário Marques da Silva
+
+## 📄 Licença
+
 Este projeto é apenas para fins académicos. Qualquer reutilização do código deve referenciar os autores e o projeto original.
