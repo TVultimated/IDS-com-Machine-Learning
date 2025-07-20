@@ -59,27 +59,27 @@ Estes ficheiros devem ser colocados no seguinte caminho:
 
 ```
 📁 IDS/
-├── 📁 Flow_outpus # Ficheiros que contêm o fluxo do tráfego a ser analisado
-├── 📁 Relatórios # Relatórios de cada análise feita
-├── 📁 Testes # Scripts de testes do IDS
-├── 📁 Validações # Registo de validações manuais feitas no IDS
-├── 📄 features.txt # Lista de atributos esperados no dataset
-├── 📄 gerador_fluxos.py # Script de geração de tráfego sintético para o IDS
-├── 📄 ids.py # Script do IDS
-├── 📄 limpar_fluxos.py # Limpeza de todos os fluxos
-└── 📄 mapping.py # Mapeamento de colunas e classes
+├── 📁 Flow_outpus           # Ficheiros que contêm o fluxo do tráfego a ser analisado
+├── 📁 Relatórios            # Relatórios de cada análise feita
+├── 📁 Testes                # Scripts de testes do IDS
+├── 📁 Validações            # Registo de validações manuais feitas no IDS
+├── 📄 features.txt          # Lista de atributos esperados no dataset
+├── 📄 gerador_fluxos.py     # Script de geração de tráfego sintético para o IDS
+├── 📄 ids.py                # Script do IDS
+├── 📄 limpar_fluxos.py      # Limpeza de todos os fluxos
+└── 📄 mapping.py            # Mapeamento de colunas e classes
 ```
 
 ## 🤖 Modelos
 
 ```
 📁 Modelos/
-├── 📁 Autoencoder # Modelo não supervisionado baseado em codificação e reconstrução
-├── 📁 Isolation_Forest # Modelo não supervisionado para deteção de outliers/anomalias
-├── 📁 K-Means # Algoritmo de clustering não supervisionado
-├── 📁 Random_Forest # Classificador supervisionado baseado em árvores de decisão
-├── 📁 Rede_Neuronal # Modelo supervisionado Multi-Layer Perceptron (MLP)
-└── 📁 SVM # Modelo supervisionado Support Vector Machine
+├── 📁 Autoencoder           # Modelo não supervisionado baseado em codificação e reconstrução
+├── 📁 Isolation_Forest      # Modelo não supervisionado para deteção de outliers/anomalias
+├── 📁 K-Means               # Algoritmo de clustering não supervisionado
+├── 📁 Random_Forest         # Classificador supervisionado baseado em árvores de decisão
+├── 📁 Rede_Neuronal         # Modelo supervisionado Multi-Layer Perceptron (MLP)
+└── 📁 SVM                   # Modelo supervisionado Support Vector Machine
 ```
 
 Para executar o projeto e colocá-lo a funcionar, encontrará tudo o que precisa no **`Manual de Instruções`** presente na secção de **`Anexos`** do **`Relatório`** do Projeto, que se encontra neste repositório.
